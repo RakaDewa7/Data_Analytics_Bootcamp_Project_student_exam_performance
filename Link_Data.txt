@@ -1,1 +1,0 @@
-https://www.kaggle.com/datasets/mobeenfatimah/student-exam-performance-and-success-dataset/data?select=student_exam_performance.csv
